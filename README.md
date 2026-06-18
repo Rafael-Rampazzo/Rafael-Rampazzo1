@@ -1,7 +1,7 @@
 # Olá eu sou o RafaelRampazzo
 - 🌱 Aspirante a Engenheiro de Software | Estudante de Back-end e Front-end 
 - 💬 Contate-me no email: rafaelrampazzo277@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://beacons.ai/Rafael-Rampazzo">
